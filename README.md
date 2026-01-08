@@ -1,3 +1,3 @@
 # science_course_a460
 all about my works on science course from 'Analiza' group
- print(hello to python world)
+ print(hello to python world)# science_course_a460
