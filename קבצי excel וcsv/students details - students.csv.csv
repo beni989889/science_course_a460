@@ -1,0 +1,8 @@
+school,first_name,last_name,age,math_score,english_score,history_score,student_address,student_city,gender
+Alonim,David,Cohen,16,90,85,70,Street 1,Tel Aviv,M
+Amit,Sarah,Levi,17,80,90,75,Street 2,Haifa,F
+Alonim,Dana,Levi,15,10,20,96,Street 4,Tel Aviv,F
+Alonim,John,Doe,16,70,75,80,Street 3,Raanana,M
+Shaar Anegev,Maya,Sharon,17,95,88,92,Street 4,Haifa,F
+Shaar Anegev,Dana,Cohen,18,60,20,96,Street 4,Haifa,F
+Amit,Yossi,Katz,16,100,100,75,Street 2,Haifa,M
